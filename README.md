@@ -32,13 +32,13 @@ For an audit, reach out via:
 | Protocol                                                         | Ecosystem      | Description | Provider   | Findings |                         Report                    |  
 | :---------------------------------------------------------------- | :------------------------ | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
 | Citrea | ✳️ EVM Compatible | Vote-escrow token | Sherlock-Collaborative | 3 Issues | Soon |
-| Altura | ✳️ HyperEVM | Multi-strategy trading framework | Sherlock-Collaborative | 2 Issues | Soon |
-| Fluent | ✳️ EVM Compatible | Blended execution network | Sherlock-Collaborative | 4 Issues (1M, 2L, 1I) Issues | Soon |
-| Altura | ✳️ HyperEVM | Multi-strategy trading framework | Sherlock-Collaborative | 8 Issues (4M, 3L) | Soon |
-| Football Fun | ✳️ EVM Compatible | fantasy sports | Sherlock-Collaborative | 5 Issues | Soon | 
+| Altura | ✳️ HyperEVM | Multi-strategy trading framework | Sherlock-Collaborative | 2 Issues | [📄](https://sherlock-files.ams3.digitaloceanspaces.com/reports/2026.02.24%20-%20Final%20-%20Altura%20Collaborative%20Audit%20Report%201771952503.pdf) | 
+| Fluent | ✳️ EVM Compatible | Blended execution network | Sherlock-Collaborative | 4 Issues (1M, 2L, 1I) Issues | [📄](https://sherlock-files.ams3.digitaloceanspaces.com/reports/2026.02.27%20-%20Final%20-%20Fluent%20Collaborative%20Audit%20Report%201772200946.pdf) |
+| Altura | ✳️ HyperEVM | Multi-strategy trading framework | Sherlock-Collaborative | 8 Issues (4M, 3L) | [📄](https://sherlock-files.ams3.digitaloceanspaces.com/reports/2026.02.05%20-%20Final%20-%20Altura%20Collaborative%20Audit%20Report%201770301625.pdf) |
+| Football Fun | ✳️ EVM Compatible | fantasy sports | Sherlock-Collaborative | 5 Issues | [📄](https://sherlock-files.ams3.digitaloceanspaces.com/reports/2026.01.26%20-%20Final%20-%20Football.Fun%20Collaborative%20Audit%20Report%201769437741.pdf) | 
 | Mangrove Chainlink Aggregator | ✳️ EVM Compatible | Chainlink oracle Integration | ThreeSigma | 2 Issues (1L, 1I) | [📄](https://github.com/user-attachments/files/24141724/Mangrove.pdf)
-| Timeswap-V3 | ✳️ EVM Compatible | Timeswap-V3 Ecosystem | Sherlock-Collaborative | 30+ Issues | Soon |
-| Noble | ✳️ EVM Compatible | Yield bearing Stable Coin | Sherlock-Collaborative | 4 Issues (1M, 3L) | Soon |
+| Timeswap-V3 | ✳️ EVM Compatible | Timeswap-V3 Ecosystem | Sherlock-Collaborative | 30+ Issues | [📄](https://sherlock-files.ams3.digitaloceanspaces.com/reports/2026.02.21%20-%20Final%20-%20Timeswap%20Collaborative%20Audit%20Report%201771635503.pdf) |
+| Noble | ✳️ EVM Compatible | Yield bearing Stable Coin | Sherlock-Collaborative | 4 Issues (1M, 3L) | [📄](https://sherlock-files.ams3.digitaloceanspaces.com/reports/2025.10.03%20-%20Final%20-%20Noble%20Collaborative%20Audit%20Report%201759485624.pdf) |
 | QuakeCash           | ✳️ EVM Compatible | Risk Management Yield Aggregator | Private Client | 12 Issues (2H, 4M, 4L, 2I) | [📄](https://github.com/Parthmandale/Private-Audits/blob/main/QuakeCash%20Audit%20Report.pdf)
 | QuakeCash-Mitigation | ✳️ EVM Compatible | Risk Management Yield Aggregator | Private Client | 7 Issues (3L, 4I) | [📄](https://github.com/Parthmandale/Private-Audits/blob/main/QuakeCash%20Mitigation%20Audit%20Report%20.pdf)
 | BIFY                | ✳️ EVM Compatible | NFT Marketplace | Radcipher | 30 Issues (13H, 11M, 4L, 12) | [📄](https://github.com/radcipher/radcipher/blob/main/reports/private-audits/pdf/2025-07-19-Bify-Audit-Report.pdf)
