@@ -31,7 +31,7 @@ For an audit, reach out via:
 
 | Protocol                                                         | Ecosystem      | Description | Provider   | Findings |                         Report                    |  
 | :---------------------------------------------------------------- | :------------------------ | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
-| Citrea | ✳️ EVM Compatible | Vote-escrow token | Sherlock-Collaborative | 3 Issues | Soon |
+| Citrea | ✳️ EVM Compatible | Vote-escrow token | Sherlock-Collaborative | 4 Issues | Soon |
 | Altura | ✳️ HyperEVM | Multi-strategy trading framework | Sherlock-Collaborative | 2 Issues | [📄](https://sherlock-files.ams3.digitaloceanspaces.com/reports/2026.02.24%20-%20Final%20-%20Altura%20Collaborative%20Audit%20Report%201771952503.pdf) | 
 | Fluent | ✳️ EVM Compatible | Blended execution network | Sherlock-Collaborative | 4 Issues (1M, 2L, 1I) Issues | [📄](https://sherlock-files.ams3.digitaloceanspaces.com/reports/2026.02.27%20-%20Final%20-%20Fluent%20Collaborative%20Audit%20Report%201772200946.pdf) |
 | Altura | ✳️ HyperEVM | Multi-strategy trading framework | Sherlock-Collaborative | 8 Issues (4M, 3L) | [📄](https://sherlock-files.ams3.digitaloceanspaces.com/reports/2026.02.05%20-%20Final%20-%20Altura%20Collaborative%20Audit%20Report%201770301625.pdf) |
