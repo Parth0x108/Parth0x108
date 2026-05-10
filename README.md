@@ -31,6 +31,7 @@ For an audit, reach out via:
 
 | Protocol                                                         | Ecosystem      | Description | Provider   | Findings |                         Report                    |  
 | :---------------------------------------------------------------- | :------------------------ | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
+| M0 PYUSDx | ✳️ EVM Compatible | Yield based Stablecoin | Sherlock-Collaborative | 11 Issues | Soon | 
 | HeyElsa | ✳️ EVM Compatible | AI-native token launch platform with PCS integration | Sherlock-Collaborative | 30 Issues | Soon | 
 | Citrea | ✳️ EVM Compatible | Vote-escrow token | Sherlock-Collaborative | 4 Issues | Soon |
 | Altura | ✳️ HyperEVM | Multi-strategy trading framework | Sherlock-Collaborative | 2 Issues | [📄](https://sherlock-files.ams3.digitaloceanspaces.com/reports/2026.02.24%20-%20Final%20-%20Altura%20Collaborative%20Audit%20Report%201771952503.pdf) | 
