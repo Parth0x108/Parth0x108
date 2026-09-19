@@ -1,13 +1,28 @@
-# Portfolio
+# Parth Mandale
 
-### About Me
-I'm a security researcher with a proven track record of consistently uncovering vulnerabilities (**100+ HM**) with multiple Top ranks in Public Audit Contests and completing multiple private audit engagements. 
+### Founder of [INVARYN](https://invaryn.pages.dev/) · Blockchain Security Researcher
 
-I have experience in auditing projects in the categories of **Lending-Borrowing, Vaults, DAO, Cross-Contract chains, Staking/Restaking, Vesting, Yield Aggregator, Stablecoin, Auctions, and typical Defi Protocols**.
+I’m the founder of **INVARYN**, building the world’s most advanced autonomous security research platform—an Agentic system that thinks like an attacker, investigates the entire blockchain stack, discovers critical vulnerabilities, and validates them through reproducible exploit paths before they reach production.
 
-For an audit, reach out via:
-- Twitter: [https://twitter.com/ParthMandale](https://twitter.com/Parth0x108)
-- Telegram: [https://t.me/ParthMandale](https://t.me/Parth0x10)
+
+My security research spans public audit contests, private engagements, and bug bounty programs across EVM and non-EVM systems. My track record includes **200+ valid High-severity and Medium-severity findings**, two first-place finishes in public audit contests, and vulnerabilities identified across smart contracts, Solana and Stellar programs, blockchain infrastructure, consensus, P2P propagation, and cross-chain systems.
+
+I have reviewed lending markets, vaults, stablecoins, staking and restaking systems, yield aggregators, governance and vesting mechanisms, auctions, token-launch platforms, oracles, and cross-chain protocols.
+
+Through INVARYN, I’m expanding this AI-driven research methodology across four technical frontiers:
+
+| Smart Contracts | Blockchain Infrastructure |
+| :--- | :--- |
+| **Zero-Knowledge Systems** | **Cryptographic Protocols** |
+
+> **INVARYN — The security intelligence for the onchain world.**
+> Launching soon.
+
+For security audits, research collaborations, or conversations about INVARYN:
+
+- **Twitter:** [@ParthMandale](https://x.com/ParthMandale)
+- **Telegram:** [@ParthMandale](https://t.me/ParthMandale)
+- **GitHub:** [Parth0x108](https://github.com/Parth0x108)
 
 ### Top Protocols Secured
 - [Silo Finance V2](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/leaderboard) 1st Rank🥇
