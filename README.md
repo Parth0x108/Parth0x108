@@ -1,8 +1,8 @@
 # Parth Mandale
 
-### Founder of [INVARYN](https://invaryn.pages.dev/) · Blockchain Security Researcher
+### Building of [INVARYN](https://invaryn.pages.dev/) · Blockchain Security Researcher
 
-I’m the founder of **INVARYN**, building the world’s most advanced autonomous security research platform—an Agentic system that thinks like an attacker, investigates the entire blockchain stack, discovers critical vulnerabilities, and validates them through reproducible exploit paths before they reach production.
+I’m building of **INVARYN**, building the world’s most advanced autonomous security research platform—an Agentic system that thinks like an attacker, investigates the entire blockchain stack, discovers critical vulnerabilities, and validates them through reproducible exploit paths before they reach production.
 
 
 My security research spans public audit contests, private engagements, and bug bounty programs across EVM and non-EVM systems. My track record includes **200+ valid High-severity and Medium-severity findings**, two first-place finishes in public audit contests, and vulnerabilities identified across smart contracts, Solana and Stellar programs, blockchain infrastructure, consensus, P2P propagation, and cross-chain systems.
