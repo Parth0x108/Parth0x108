@@ -1,6 +1,6 @@
 # Parth Mandale
 
-### Building of [INVARYN](https://invaryn.pages.dev/) · Blockchain Security Researcher
+### Building [INVARYN](https://invaryn.pages.dev/) · Blockchain Security Researcher
 
 I’m building of **INVARYN**, building the world’s most advanced autonomous security research platform, an Agentic system that thinks like an attacker, investigates the entire blockchain stack, discovers critical vulnerabilities, and validates them through reproducible exploit paths before they reach production.
 
@@ -46,6 +46,7 @@ For security audits, research collaborations, or conversations about INVARYN:
 
 | Protocol  | Description | Provider   | Findings |   Report   |  
 | :---------------------------------------------------------------- | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
+| Promis | Yield based Stablecoincoin | Sherlock-Collaborative | 39 Issues | Soon | 
 | M0-PYUSDx | Yield based Stablecoin | Sherlock-Collaborative | 17 Issues | Soon | 
 | HeyElsa | AI-native token launch platform with PCS integration | Sherlock-Collaborative | 30 Issues | Soon | 
 | Citrea | Vote-escrow token | Sherlock-Collaborative | 4 Issues | Soon |
