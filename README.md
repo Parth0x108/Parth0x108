@@ -20,8 +20,8 @@ Through INVARYN, I’m expanding this AI-driven research methodology across four
 
 For security audits, research collaborations, or conversations about INVARYN:
 
-- **Twitter:** [@ParthMandale](https://x.com/ParthMandale)
-- **Telegram:** [@ParthMandale](https://t.me/ParthMandale)
+- **X:** [@Parth0x108](https://x.com/Parth0x108)
+- **Telegram:** [@Parth0x108](https://t.me/Parth0x108)
 - **GitHub:** [Parth0x108](https://github.com/Parth0x108)
 
 ### Top Protocols Secured
