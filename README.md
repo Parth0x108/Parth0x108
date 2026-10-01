@@ -1,6 +1,6 @@
 # Parth Mandale
 
-### Building [INVARYN](https://invaryn.pages.dev/) · Blockchain Security Researcher
+### Building INVARYN · Blockchain Security Researcher
 
 I’m building of **INVARYN**, the world’s most advanced autonomous security research platform, an Agentic system that thinks like an attacker, investigates the entire blockchain stack, discovers critical vulnerabilities, and validates them through reproducible exploit paths before they reach production.
 
