@@ -1,28 +1,20 @@
-# Parth Mandale
+# Parth0x108
 
-### Building INVARYN · Blockchain Security Researcher
+### Blockchain Security Researcher · Smart Contract Auditor
 
-I’m building of **INVARYN**, the world’s most advanced autonomous security research platform, an Agentic system that thinks like an attacker, investigates the entire blockchain stack, discovers critical vulnerabilities, and validates them through reproducible exploit paths before they reach production.
+I’m a blockchain security researcher with 2.5 years of experience across EVM and non-EVM ecosystems. My work spans private security engagements, collaborative audits, public audit contests, and independent bug bounty research, including engagements with teams such as M0, Citrea, and Silo Finance.
 
+I focus on identifying exploitable vulnerabilities, analyzing protocol invariants, and assessing security risks across smart contracts and blockchain infrastructure.
 
-My security research spans public audit contests, private engagements, and bug bounty programs across EVM and non-EVM systems. My track record includes **200+ valid High-severity and Medium-severity findings**, two first-place finishes in public audit contests, and vulnerabilities identified across smart contracts, Solana and Stellar programs, blockchain infrastructure, consensus, P2P propagation, and cross-chain systems.
+**Open to contract audit engagements and collaborative security reviews with audit firms and protocol teams.**
 
-I have reviewed lending markets, vaults, stablecoins, staking and restaking systems, yield aggregators, governance and vesting mechanisms, auctions, token-launch platforms, oracles, and cross-chain protocols.
+[Website](https://parth0x108.github.io/) · [Telegram](https://telegram.me/parth0x108) · [X](https://x.com/Parth0x108) · [Cantina Profile](https://cantina.xyz/u/ParthMandale) · [Sherlock Profile](https://audits.sherlock.xyz/watson/ParthMandale) · [Resume](https://docs.google.com/document/d/1QR-8dsb9wTffm0KaSlmszGSMRjt2Ng8WOWnWkPMcSFY/edit)
 
-Through INVARYN, I’m expanding this AI-driven research methodology across four technical frontiers:
+| Audits completed | Value secured | Issues disclosed | LOC reviewed |
+| :---: | :---: | :---: | :---: |
+| **52+** | **$1.1B+** | **256+** | **110K** |
 
-| Smart Contracts | Blockchain Infrastructure |
-| :--- | :--- |
-| **Zero-Knowledge Systems** | **Cryptographic Protocols** |
-
-> **INVARYN — The security intelligence for the onchain world.**
-> Launching soon.
-
-For security audits, research collaborations, or conversations about INVARYN:
-
-- **X:** [@Parth0x108](https://x.com/Parth0x108)
-- **Telegram:** [@Parth0x108](https://t.me/Parth0x108)
-- **GitHub:** [Parth0x108](https://github.com/Parth0x108)
+[Public audit contests](#public-audit-contest) · [Private audits](#private-audits) · [Bug bounty research](#bug-bounty-research) · [Technical writing](#technical-writing)
 
 ### Top Protocols Secured
 - [Silo Finance V2](https://cantina.xyz/competitions/18f1e37b-9ac2-4ba9-b32e-50344500c1a7/leaderboard) 1st Rank🥇
@@ -62,3 +54,50 @@ For security audits, research collaborations, or conversations about INVARYN:
 | BIFY                | NFT Marketplace | Radcipher | 30 Issues (13H, 11M, 4L, 12) | [📄](https://github.com/radcipher/radcipher/blob/main/reports/private-audits/pdf/2025-07-19-Bify-Audit-Report.pdf)
 | Gatekeeper           | Cross Program Invocation | Pashov  | 7 Issues (2C, 2M, 4L) | [📄](https://github.com/pashov/audits/blob/master/team/pdf/Gatekeeper-security-review_2025-06-28.pdf)
 | Daos Live           | DAOs Launchpad, Vesting | Shieldify  | 21 Issues (2C, 4H, 4M, 7L, 4I) | [📄](https://github.com/shieldify-security/audits-portfolio-md/blob/main/DaosLive-Security-Review.md)
+
+## Bug bounty research
+
+Independent security research across blockchain protocols and infrastructure, with vulnerabilities identified in the following systems.
+
+| Protocol | Description |
+| :--- | :--- |
+| [Hinkal (Arc)](https://hinkal.io/) | Privacy infrastructure for confidential onchain payments. |
+| [Ammalgam](https://ammalgam.xyz/) | A decentralized exchange combining swaps and lending. |
+| [StackingDAO](https://www.stackingdao.com/) | Liquid staking for BTC and STX in the Stacks ecosystem. |
+| [Polygon PoS](https://polygon.technology/) | An EVM-compatible proof-of-stake chain anchored to Ethereum. |
+| [Flare Network](https://flare.network/) | An EVM Layer 1 with native protocols for external data. |
+| [Ethena](https://ethena.fi/) | The protocol behind USDe, a crypto-backed synthetic dollar. |
+
+[View bug bounty research](https://parth0x108.github.io/bounties/)
+
+## Technical writing
+
+Research, security analysis, and educational articles on blockchain protocols and cryptographic systems.
+
+### [Securing Protocols on Arc: A Developer and Auditor Guide](https://x.com/i/article/2105765259068035509)
+
+**October 2026** — An examination of Arc’s architecture, security assumptions, and considerations for protocol developers and auditors.
+
+### [Zero-Knowledge Proofs: Basics, Simplified](https://x.com/Parth0x108/article/2024493224115556583)
+
+**February 2026** — An introduction to zero-knowledge proofs, their fundamental properties, and the security guarantees they provide.
+
+## Security research areas
+
+| System | Review focus |
+| :--- | :--- |
+| **DeFi Primitives** | Economic vulnerabilities, financial invariants, and user asset security. |
+| **EVM** | Logic vulnerabilities, execution correctness, and cross-contract interactions. |
+| **Rust Systems** | Memory safety, state integrity, and execution vulnerabilities. |
+| **Stacks Ecosystem** | Clarity logic, asset security, and cross-layer interactions. |
+| **Zero-Knowledge Systems** | Constraint soundness, proof verification, and cryptographic security. |
+| **Blockchain DLT / Infrastructure** | Consensus security, state integrity, and transaction execution. |
+| **Canton** | Authorization, transaction integrity, and privacy guarantees in Canton applications and Daml smart contracts. |
+
+## Work with me
+
+For contract audit work or security reviews, contact me on [Telegram](https://telegram.me/parth0x108). Share the protocol, proposed scope, and timeline.
+
+My review process covers system architecture and security assumptions, adversarial analysis, vulnerability validation, clear reporting, and verification of implemented fixes.
+
+[Portfolio website](https://parth0x108.github.io/) · [X](https://x.com/Parth0x108) · [Discord](https://discord.com/users/858609906793709578)
