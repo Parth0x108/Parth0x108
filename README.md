@@ -8,7 +8,7 @@ I focus on identifying exploitable vulnerabilities, analyzing protocol invariant
 
 **Open to contract audit engagements and collaborative security reviews with audit firms and protocol teams.**
 
-[Website](https://parth0x108.github.io/) · [Telegram](https://telegram.me/parth0x108) · [X](https://x.com/Parth0x108) · [Cantina Profile](https://cantina.xyz/u/ParthMandale) · [Sherlock Profile](https://audits.sherlock.xyz/watson/ParthMandale) · [Resume](https://docs.google.com/document/d/1QR-8dsb9wTffm0KaSlmszGSMRjt2Ng8WOWnWkPMcSFY/edit)
+[Website](https://parth0x108.github.io/) · [Telegram](https://telegram.me/parth0x108) · [X](https://x.com/Parth0x108) · [Cantina Profile](https://cantina.xyz/u/ParthMandale) · [Sherlock Profile](https://audits.sherlock.xyz/watson/ParthMandale)
 
 | Audits completed | Value secured | Issues disclosed | LOC reviewed |
 | :---: | :---: | :---: | :---: |
