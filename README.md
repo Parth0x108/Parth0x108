@@ -38,10 +38,9 @@ I focus on identifying exploitable vulnerabilities, analyzing protocol invariant
 
 | Protocol  | Description | Provider   | Findings |   Report   |  
 | :---------------------------------------------------------------- | :------------------------ | :--------- | :--: | :----------------------------------------------------: |
-
-| Bond Credit | Agentic strategy vault | 5 Issues | Soon |
-| Zyfai | Agentic yield optimizer | 16 Issues | Soon |
-| Promis | Yield based Stablecoincoin | Sherlock-Collaborative | 39 Issues | Soon | 
+| Bond Credit | Agentic strategy vault | Sherlock-Collaborative | 5 Issues | Soon |
+| Zyfai | Agentic yield optimizer | Sherlock-Collaborative | 16 Issues | Soon |
+| Promis | Yield based Stablecoincoin | Sherlock-Collaborative | 39 Issues | Soon |
 | M0-PYUSDx | Yield based Stablecoin | Sherlock-Collaborative | 17 Issues | Soon | 
 | HeyElsa | AI-native token launch platform with PCS integration | Sherlock-Collaborative | 30 Issues | Soon | 
 | Citrea | Vote-escrow token | Sherlock-Collaborative | 4 Issues | Soon |
